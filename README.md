@@ -1,1 +1,1 @@
-# LeetcodeJAVA
+# Leetcode
